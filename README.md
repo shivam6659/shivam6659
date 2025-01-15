@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Web Application developer**
+- 💬 Ask me about **Web Application developer & Data Science**
 
 - 📫 How to reach me **shivam.varshney798@gmail.com**
 
